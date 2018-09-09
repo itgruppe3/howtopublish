@@ -1,0 +1,81 @@
+body{
+  background-color: #FFF;
+  margin: 0;
+  font-family: inherit;
+  color: #000;
+  line-height: 1.5;
+}
+
+.header{
+  background-color: #00ffaa;
+  text-align: center;
+  height: 50px;
+  position: sticky;
+  position: -webkit-sticky;
+  top: 0px;
+  padding-top: 10px
+}
+
+.headtitle{
+  margin-top: 0px;
+  color: #111;
+
+}
+
+.intro {
+  padding-left: 1%;
+}
+
+.title1, .title3, .title5, .title7{
+  color: #FFF;
+  padding-left: 1%;
+  font-size: 30px;
+}
+.titleintro, .title2, .title4, .title6{
+  color: #000;
+  padding-left: 1%;
+  font-size: 30px;
+
+}
+
+.section1, .section3, .section5, .section7{
+  padding: 40px;
+  height: 700px;
+  background-color: #000;
+  color: #FFF;
+}
+
+.sectionintro, .section2, .section4, .section6{
+  padding: 40px;
+  height: 700px;
+  background-color: #FFF;
+  color: #000;
+}
+
+.content1, .content3, .content5{
+  width:48%;
+  float:left;
+  padding-left: 1%;
+  padding-right: 1%;
+}
+
+.contentintro, .content2, .content4, .content6, .content7{
+  width:48%;
+  float:left;
+  padding-left: 1%;
+  padding-right: 1%;
+}
+
+
+img{
+  width:48%;
+  float: left;
+  padding-top: 16px;
+  padding-left: 1%;
+  padding-right: 1%;
+}
+
+a:link, a:visited {
+  color: #48C9B0;
+
+}
